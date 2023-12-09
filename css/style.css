@@ -20,7 +20,7 @@ header, footer {
 header {
   font-family: 'Abril Fatface', serif;
   color: #fff;
-  min-height: 50vh;
+  min-height: 100vh;
   display: flex;
 }
 
